@@ -1,0 +1,78 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/anaemia---primary.py
+inputModule3:
+  class: File
+  path: python/other-anaemias---primary.py
+inputModule4:
+  class: File
+  path: python/other-anaemias-haemoglobin---primary.py
+inputModule5:
+  class: File
+  path: python/other-anaemias-proteindeficiency---primary.py
+inputModule6:
+  class: File
+  path: python/microcytic-other-anaemias---primary.py
+inputModule7:
+  class: File
+  path: python/hypochromic-other-anaemias---primary.py
+inputModule8:
+  class: File
+  path: python/megaloblastic-other-anaemias---primary.py
+inputModule9:
+  class: File
+  path: python/macrocytic-other-anaemias---primary.py
+inputModule10:
+  class: File
+  path: python/other-anaemias-unspecified---primary.py
+inputModule11:
+  class: File
+  path: python/other-anaemias-oroticaciduria---primary.py
+inputModule12:
+  class: File
+  path: python/other-anaemias-vitamin---primary.py
+inputModule13:
+  class: File
+  path: python/sideroblastic-other-anaemias---primary.py
+inputModule14:
+  class: File
+  path: python/congenital-other-anaemias---primary.py
+inputModule15:
+  class: File
+  path: python/secondary-other-anaemias---primary.py
+inputModule16:
+  class: File
+  path: python/acute-other-anaemias---primary.py
+inputModule17:
+  class: File
+  path: python/normocytic-other-anaemias---primary.py
+inputModule18:
+  class: File
+  path: python/chronic-other-anaemias---primary.py
+inputModule19:
+  class: File
+  path: python/other-anaemias-failure---primary.py
+inputModule20:
+  class: File
+  path: python/nutritional-other-anaemias---primary.py
+inputModule21:
+  class: File
+  path: python/other-anaemias-classified---primary.py
+inputModule22:
+  class: File
+  path: python/possible-other-anaemias---primary.py
+inputModule23:
+  class: File
+  path: python/anaemias---primary.py
+inputModule24:
+  class: File
+  path: python/other-anaemias---secondary.py
+inputModule25:
+  class: File
+  path: python/output-cases.py
